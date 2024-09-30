@@ -1,0 +1,35 @@
+#preencher {
+    background-color: blue; /* Cor de fundo */
+    color: white; /* Cor do texto */
+    padding: 10px 20px; /* Preenchimento interno */
+    border: none; /* Remove borda */
+    border-radius: 5px; /* Cantos arredondados */
+    cursor: pointer; /* Muda o cursor ao passar o mouse */
+}
+
+#preencher:hover {
+    background-color: darkblue; /* Cor de fundo ao passar o mouse */
+}
+
+.perfil {
+    margin-bottom: 30px; /* Espaçamento abaixo do perfil */
+    
+}
+
+h2 {
+    margin: 0; /* Remove margens do título */
+    
+}
+
+h4 {
+    margin: 15px 30px; /* Espaçamento reduzido entre h3 e h5 */
+    width: 80%; /* ou qualquer valor fixo, como 500px */
+    margin: 0 auto;
+}
+
+h5 {
+    margin: 0px; /* Remove margens do h5 */
+    margin-bottom: 30px; /* Espaçamento entre o h5 e o botão */
+    width: 80%; /* ou qualquer valor fixo, como 500px */
+    margin: 0 auto;
+}
